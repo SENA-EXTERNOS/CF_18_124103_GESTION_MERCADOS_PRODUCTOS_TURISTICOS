@@ -2,13 +2,17 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 10%
+    right: 20%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 15%
+    right: 60%
+  &-3
+    animation: myAnim 2s linear 0s infinite alternate forwards;
+    top: 38%
+    right: 20%
 
 
 @keyframes float1
@@ -17,3 +21,298 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes myAnim 
+	0% 
+		opacity: 0
+		transform: translateX(-50px)
+	
+
+	100% 
+		opacity: 1
+		transform: translateX(0)
+
+//estilos adicionales
+
+.cajonAmarillo
+  position: relative
+  &:before
+    content: ''
+    display: block
+    width: 25px
+    height: 10px
+    position: absolute
+    top: 0
+    left: 0
+
+  &.color-primario
+    background-color: #FFF6DB
+    &:before
+      background-color: #FDB74D
+  &.color-secundario
+    background-color: lighten($color-secundario, 20%)
+    &:before
+      background-color: $color-secundario
+  &.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 30%)
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    background-color: lighten($color-acento-botones, 35%)
+    &:before
+      background-color: $color-acento-botones
+
+.bgr-tarjeta-tema1:before
+    background: #A7E446
+    
+.bgr-tarjeta-tema1
+    background: #E9F8D0
+
+.bgr-tarjeta2-tema1:before
+    background: #FC4B52
+    
+.bgr-tarjeta2-tema1
+    background: #FED2D3
+
+.lista-ul--color li > i:first-of-type 
+    color: #FC4B52
+
+.lista-ol--cuadro__vineta 
+    background-color: #FC4B52
+
+.color-tarjeta-1
+  background-color: #FFE4E5
+
+.color-tarjeta-2
+  background-color: #FEC8CA
+
+.banner1-tema-1
+  background-image: url("../assets/curso/temas/tema1/bgr1.svg") !important
+  background-size: 100% 120%
+
+.banner1-tema-1-width
+  margin-left: 20%
+  width: 60%
+
+.clr-paleYellow
+  background-color: #FFE4E5
+
+.clr-paleYellow2
+  background-color: #FEE3E4
+
+.clr-paleYellow3
+  background-color: #DFF7F9
+
+.bloque-texto-g__img 
+    left: 50%
+
+.bloque-texto-g__texto 
+    right: 20%
+    width: 80%
+
+.banner2-tema-1
+  background-image: url("../assets/curso/temas/tema1/bgr2.png") !important
+  background-size: 100% 100%
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right 
+    background-color: #FECA2E
+    border: 2px solid #FECA2E
+
+.img-infografica.color-acento-botones .img-infografica__item__dot:before, .img-infografica.color-acento-botones .img-infografica__item__dot:after, .img-infografica.color-acento-botones .img-infografica-b__item__dot:before, .img-infografica.color-acento-botones .img-infografica-b__item__dot:after, .img-infografica-b.color-acento-botones .img-infografica__item__dot:before, .img-infografica-b.color-acento-botones .img-infografica__item__dot:after, .img-infografica-b.color-acento-botones .img-infografica-b__item__dot:before, .img-infografica-b.color-acento-botones .img-infografica-b__item__dot:after 
+    background-color: #F2FBE3
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #F6F6F6
+
+.acordion__accion__btn--a
+  background-color: $color-acento-contenido !important
+
+.acordion__activo
+  background-color: #FFF7E0 !important
+
+.bgr-descargas
+  background-color: #64892A !important
+
+.banner3-tema-1
+  background-image: url("../assets/curso/temas/tema1/bgr3.png") !important
+  background-size: 100% 100%
+
+.banner4-tema-1
+  background-image: url("../assets/curso/temas/tema1/bgr4.png") !important
+  background-size: 100% 100%
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: $color-acento-botones
+    border: 1px solid $color-acento-botones
+
+.tabs-a__tab 
+  background-color: #E8E8E8
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: rgba(255, 247, 230, 1) 
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+  //// Tarjetas --------------------------------------
+.crd
+  &.brd--rad
+    border-radius: 20px 
+  &.crd--grayGrad
+    padding: 2rem
+    height: 100%
+    background-color: #F6F6F6
+    border-radius: 15px    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    &:hover      
+      background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+      h4, p
+        color: white 
+      .bottomCircle
+        &::before
+          background-color: #FED981
+  &.crd--blue
+    background-color: #B1DBEA
+
+  &.crd--border
+    border: 4px solid $color-acento-botones
+    border-radius: 20px
+
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 115px
+    height: 115px
+    background-color: #116EB9
+    border-radius: 999px
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5 
+    color: #7F4FC7
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #C5E5FE
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first, .crd--last
+  &::before 
+    background-color: #DDEDF8 !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+///// utilidades --------------------------------------
+.img65
+  width: 65px  
+.img90
+  width: 90px  
+.img250
+  width: 350px;
+  margin-left: 20%;  
+.brd--rad
+  border-radius: 20px
+.hr--line
+  margin: 1rem 0
+  width: 100%
+  height: 1px  
+  background-color: #B0C0D2
+.b--rad
+  border-radius: 0px 0px 20px 20px 
+.bg--gradientBlue        
+  background: linear-gradient(0deg, rgba(215,236,252,1) 0%, rgba(239,246,252,1) 100%)
+
+.dialogo.color-primario .dialogo__words__word
+  color: #3c7792 !important
+
+.margen-tema1-figure
+  margin-left: 10%
+
+.crd--first::before, .crd--last::before 
+    background-color: #FFE4E5 !important
+
+.bgr-horizontal-1
+  position: absolute
+  content: ''
+  top: 0
+  right: 0
+  width: calc( 100% - 60px)
+  height: 100%
+  background-color: #FEC8CA !important
+
+.crd--avatarHorizontal::before 
+    background-color: #FEC8CA
+
+.horizontal-1::before 
+  border-bottom-left-radius: 0px
+
+.horizontal-1::before 
+  border-bottom-left-radius: 0px !important
+
+.crd--avatarHorizontal h5 
+    color: black
+
+.img-infografica__card, .img-infografica-b__card 
+    width: 550px
+    height: 100px 
+
+///// Linea tiempo D --------------------------------------
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+  background-color: #DFF7F9
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #FFF2CA
+
+.linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+    background-color: #FFF2CB
+
