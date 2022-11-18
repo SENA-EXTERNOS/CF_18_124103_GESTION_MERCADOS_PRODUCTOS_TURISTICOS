@@ -27,7 +27,7 @@
         p La función comercial tiene como objetivo establecer y desarrollar las relaciones de intercambio con el mercado, incluyendo una serie de actividades que tienen como fin hacer llegar al consumidor final los bienes y servicios que produce una empresa, en este caso, el evento en el que se trabaja.
 
 
-    SlyderF(columnas="col-lg-6 col-xl-4")
+    SlyderF(columnas="col-lg-6 col-xl-4").text-movil
       .tarjeta.p-4.banner1-tema-1.mt-5
         .row.justify-content-center.mb-5
           .col-5(data-aos="zoom-in-left")
@@ -822,7 +822,8 @@
 
 
     .row.mt-5.banner4-tema-1
-      SlyderB.mb-5(:datos="datosSlyder")
+      .col-lg-10.col-xs-10
+        SlyderB.mb-5(:datos="datosSlyder")
 
 </template>
 
@@ -839,31 +840,31 @@ export default {
       },
       {
         titulo: '<em>Advergaming</em>:',
-        texto: 'Cuando se crean videojuegos para promoción de una marca.',
+        texto: 'Cuando se crean videojuegos para <br>promoción de una marca.',
         imagen: require('@/assets/curso/temas/tema1/img62.svg'),
       },
       {
         titulo: '<em>Displays:</em>',
         texto:
-          'Formato publicitario online en el que el anuncio (conocido generalmente como <i>banner</i> y formado por texto, imagen, audio e incluso vídeo) se muestra en una página web de destino, por lo general presentado en la parte superior o lateral de la misma.',
+          'Formato publicitario online en el que el <br>anuncio (conocido generalmente como <br><i>banner</i> y formado por texto, imagen, audio e incluso vídeo) se muestra en una página <br>web de destino, por lo general presentado en <br>la parte superior o lateral de la misma.',
         imagen: require('@/assets/curso/temas/tema1/img63.svg'),
       },
       {
         titulo: '<em>Marketing directo:',
         texto:
-          'Es una forma de comunicación de <i>marketing</i> que utiliza uno o más medios para comunicarse directamente con un público objetivo y obtener de él una respuesta medible.',
+          'Es una forma de comunicación de <i>marketing</i> que utiliza uno o más medios para <br>comunicarse directamente con un público objetivo y obtener de él una respuesta <br>medible.',
         imagen: require('@/assets/curso/temas/tema1/img64.svg'),
       },
       {
         titulo: 'Publicidad no casual:',
         texto:
-          'Es necesario tener en cuenta que no es una nueva forma de publicidad, simplemente cumple con objetivos circunstanciales de mercado. En primer lugar, generar resultados en ventas inmediatas, visto globalmente implica todo tipo de publicidad no usual, que en su esencia concentra los esfuerzos en generar ventas durante los programas.',
+          'Es necesario tener en cuenta que no es una nueva forma de publicidad, simplemente cumple con objetivos circunstanciales de mercado. En primer lugar, generar resultados <br>en ventas inmediatas, visto globalmente <br>implica todo tipo de publicidad no usual, <br>que en su esencia concentra los esfuerzos <br>en generar ventas durante los programas.',
         imagen: require('@/assets/curso/temas/tema1/img65.svg'),
       },
       {
-        titulo: 'Ventajas de los medios alternativos:',
+        titulo: 'Ventajas de los medios <br>alternativos:',
         texto:
-          '<i class="fas fa-check" STYLE="Color: #FC4B52"></i> Legales<br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> Diferenciación del mensaje según target y contexto del consumidor.</i><br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> Se pueden realizar correctivos sobre la marcha.<br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> De acuerdo con su implementación pueden lograr mayor recordación.<br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> Retroalimentación inmediata al posibilitar el contacto directo cara a cara con el consumidor.<br>',
+          '<i class="fas fa-check" STYLE="Color: #FC4B52"></i> Legales<br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> Diferenciación del mensaje según target y contexto del consumidor.</i><br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> Se pueden realizar correctivos sobre la marcha.<br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> De acuerdo con su implementación pueden lograr mayor recordación.<br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> Retroalimentación inmediata al posibilitar el contacto directo cara a cara con el <br>consumidor.<br>',
         imagen: require('@/assets/curso/temas/tema1/img66.svg'),
       },
     ],
