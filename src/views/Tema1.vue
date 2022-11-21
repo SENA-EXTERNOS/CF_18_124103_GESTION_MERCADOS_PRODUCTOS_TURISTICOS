@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         figure(data-aos="zoom-in-left")
-          img(src="@/assets/curso/temas/tema1/img1.svg", alt="alt")
+          img(src="@/assets/curso/temas/tema1/img1.png", alt="alt")
 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -32,35 +32,35 @@
         .row.justify-content-center.mb-5
           .col-5(data-aos="zoom-in-left")
             img(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
-        h2.text-center Comercialización de servicios
+        h3.text-center Comercialización de servicios
         p.text-center.text-small Está estrechamente ligada con el #[i marketing], dado que el mercado en el que se desarrolla la industria de eventos presenta altos niveles de competencia y surgen constantemente nuevos perfiles de clientes.
 
       .tarjeta.p-4.banner1-tema-1.mt-5
         .row.justify-content-center.mb-5
           .col-5(data-aos="zoom-in-left")
             img(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
-        h2.text-center.pb-5 Beneficios
-        p.text-center.text-small En este sentido, la función comercial definirá qué, cómo, cuándo y a quién dirigirse para ofrecer los productos o servicios, y en consecuencia, obtener beneficios.
+        h3.text-center.pb-3 Beneficios
+        p.text-center.text-small.pb-4 En este sentido, la función comercial definirá qué, cómo, cuándo y a quién dirigirse para ofrecer los productos o servicios, y en consecuencia, obtener beneficios.
 
       .tarjeta.p-4.banner1-tema-1.mt-5
-        .row.justify-content-center.mb-5
+        .row.justify-content-center.mb-3
           .col-5(data-aos="zoom-in-left")
             img(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop')
-        h2.text-center Acciones comerciales
+        h3.text-center Acciones comerciales
         p.text-center.text-small Las acciones comerciales online tienen como objetivo convertir al navegante en cliente. En los puntos de venta físicos, los consumidores cuentan con el producto tangible que pueden ver y tocar. En la industria turística la venta es de un intangible, es decir, servicios que se materializan solo cuando el cliente los utiliza. 
 
       .tarjeta.p-4.banner1-tema-1.mt-5
         .row.justify-content-center.mb-5
           .col-5(data-aos="zoom-in-left")
             img(src='@/assets/curso/temas/tema1/img6.svg' alt='AvatarTop')
-        h2.text-center.pb-5 Comercio electrónico
-        p.text-center.text-small El éxito del comercio electrónico radica en convertir al cliente en el centro de atención, ofreciéndole una experiencia diferenciada en la que elija cuando quiera, de manera eficiente, rápida, cómoda y segura.
+        h3.text-center.pb-2 Comercio electrónico
+        p.text-center.text-small.pb-3 El éxito del comercio electrónico radica en convertir al cliente en el centro de atención, ofreciéndole una experiencia diferenciada en la que elija cuando quiera, de manera eficiente, rápida, cómoda y segura.
 
       .tarjeta.p-4.banner1-tema-1.mt-5
         .row.justify-content-center.mb-5
           .col-5(data-aos="zoom-in-left")
             img(src='@/assets/curso/temas/tema1/img7.svg' alt='AvatarTop')
-        h2.text-center.pb-5 Nuevo entorno digital
+        h3.text-center.pb-4 Nuevo entorno digital
         p.text-center.text-small.pb-5 Se extiende en la sociedad generando nuevos estilos de vida y hábitos de consumo. 
       
     .row.mt-3
@@ -692,80 +692,56 @@
 
           .tarjeta.color-acento-botones.p-3(x="72.7%" y="20%" numero="")
             .row.justify-content-center.align-items-center
-              .col-lg-4
-                figure(data-aos="zoom-in-left")
-                 img(src='@/assets/curso/temas/tema1/img49.svg', alt='Texto que describa la imagen')
-              .col-lg-8
+              .col-lg-12
                 p #[b Vallas publicitarias:]
 
                 p Estructuras situadas en espacios de gran visibilidad donde se coloca un anuncio publicitario.
 
           .tarjeta.color-acento-botones.p-3(x="75.5%" y="40.2%" numero="")
             .row.justify-content-center.align-items-center
-              .col-lg-4
-                figure(data-aos="zoom-in-left")
-                 img(src='@/assets/curso/temas/tema1/img50.svg', alt='Texto que describa la imagen')
-              .col-lg-8
+              .col-lg-12
                 p #[b Letreros luminosos:]
 
                 p Paneles que emiten luz y generalmente emulan el logotipo de una marca.
 
           .tarjeta.color-acento-botones.p-3(x="69.9%" y="58%" numero="")
             .row.justify-content-center.align-items-center
-              .col-lg-4
-                figure(data-aos="zoom-in-left")
-                 img(src='@/assets/curso/temas/tema1/img51.svg', alt='Texto que describa la imagen')
-              .col-lg-8
+              .col-lg-12
                 p #[b Videopantallas:]
 
                 p Soportes multimedia situados en lugares transitados, como centros comerciales o eventos.
 
           .tarjeta.color-acento-botones.p-3(x="58.0%" y="68.7%" numero="")
             .row.justify-content-center.align-items-center
-              .col-lg-4
-                figure(data-aos="zoom-in-left")
-                 img(src='@/assets/curso/temas/tema1/img52.svg', alt='Texto que describa la imagen')
-              .col-lg-8
+              .col-lg-12
                 p #[b Muros:]
 
                 p Publicidad impresa sobre muros o fachadas de edificios. Por sus características, suelen tener un carácter permanente.
 
           .tarjeta.color-acento-botones.p-3(x="42.8%" y="68.5%" numero="")
             .row.justify-content-center.align-items-center
-              .col-lg-4
-                figure(data-aos="zoom-in-left")
-                 img(src='@/assets/curso/temas/tema1/img53.svg', alt='Texto que describa la imagen')
-              .col-lg-8
+              .col-lg-12
                 p #[b Publicidad que se realiza #[i online]:]
 
                 p Al comparar esta publicidad resulta más económica que las prácticas con la publicidad tradicional, facilitando además la medición de resultados de la campaña.
 
           .tarjeta.color-acento-botones.p-3(x="30.5%" y="58%" numero="")
             .row.justify-content-center.align-items-center
-              .col-lg-4
-                figure(data-aos="zoom-in-left")
-                 img(src='@/assets/curso/temas/tema1/img54.svg', alt='Texto que describa la imagen')
-              .col-lg-8
+              .col-lg-12
                 p #[b Transporte público:]
 
                 p Publicidad situada en la superficie exterior de autobuses, trenes, tranvías o taxis.
 
           .tarjeta.color-acento-botones.p-3(x="24.5%" y="40%" numero="")
             .row.justify-content-center.align-items-center
-              .col-lg-4
-                figure(data-aos="zoom-in-left")
-                 img(src='@/assets/curso/temas/tema1/img55.svg', alt='Texto que describa la imagen')
-              .col-lg-8
+              .col-lg-12
                 p #[b Banderolas:]
 
                 p Anuncios de carácter repetitivo adosados generalmente a postes de iluminación. 
 
           .tarjeta.color-acento-botones.p-3(x="27.8%" y="19.5%" numero="")
             .row.justify-content-center.align-items-center
-              .col-lg-4
-                figure(data-aos="zoom-in-left")
-                 img(src='@/assets/curso/temas/tema1/img56.svg', alt='Texto que describa la imagen')
-              .col-lg-8
+              .col-lg-12
                 p #[b Internet:]
 
                 p La publicidad utiliza la red como medio de comunicación, ya sea una #[i web] o #[i blog], el correo electrónico, las redes sociales o cualquier otra plataforma o sistema virtual, permitiendo dar a conocer la marca, empresa o producto a prácticamente todo el mundo, sin importar la hora o día en el año.
@@ -821,54 +797,95 @@
       p Los medios alternativos pueden tipificarse como medios bellow the line. Estos pueden verse como complemento de los medios tradicionales, y pueden definirse como acciones tácticas que hacen parte de las estrategias y nos ayudan a conseguir objetivos de ventas, de participación en el mercado o de posicionamiento, tales como: 
 
 
-    .row.mt-5.banner4-tema-1
+    .row.justify-content-center.align-items-center
       .col-lg-10.col-xs-10
-        SlyderB.mb-5(:datos="datosSlyder")
+        .tarjeta.tarjeta--azul.p-4.banner3-tema-1
+          SlyderA(tipo="b")
+            .row
+              .col-md-7.mb-4.mb-md-0
+                h3 Emplazamiento del producto:
+                p Inserción de la marca en la narrativa de una serie, novela, película, etc.
+
+              .col-md-5
+                figure
+                 img(src='@/assets/curso/temas/tema1/img61.svg', alt='Texto que describa la imagen')
+
+
+            .row
+              .col-md-7.mb-4.mb-md-0
+                h3 #[i Advergaming:]
+                p Cuando se crean videojuegos para promoción de una marca.
+
+              .col-md-5
+                figure
+                 img(src='@/assets/curso/temas/tema1/img62.svg', alt='Texto que describa la imagen')
+
+            .row
+              .col-md-7.mb-4.mb-md-0
+                h3 #[i Displays:]
+                p Formato publicitario online en el que el anuncio (conocido generalmente como #[i banner] y formado por texto, imagen, audio e incluso vídeo) se muestra en una página web de destino, por lo general presentado en la parte superior o lateral de la misma.
+              .col-md-5
+                figure
+                  img(src='@/assets/curso/temas/tema1/img63.svg', alt='Texto que describa la imagen')
+
+            .row
+              .col-md-7.mb-4.mb-md-0
+                h3 #[i Marketing] directo:
+                p Es una forma de comunicación de #[i marketing] que utiliza uno o más medios para comunicarse directamente con un público objetivo y obtener de él una respuesta medible.
+
+              .col-md-5
+                figure
+                  img(src='@/assets/curso/temas/tema1/img64.svg', alt='Texto que describa la imagen')
+
+            .row
+              .col-md-7.mb-4.mb-md-0
+                h3 Publicidad no casual:
+                p Es necesario tener en cuenta que no es una nueva forma de publicidad, simplemente cumple con objetivos circunstanciales de mercado. En primer lugar, generar resultados en ventas inmediatas, visto globalmente implica todo tipo de publicidad no usual, que en su esencia concentra los esfuerzos en generar ventas durante los programas.
+
+              .col-md-5
+                figure
+                  img(src='@/assets/curso/temas/tema1/img65.svg', alt='Texto que describa la imagen')
+
+
+            .row
+              .col-md-7.mb-4.mb-md-0
+                h3 Ventajas de los medios alternativos:
+       
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-check
+                    p.mb-0 Optimización de recursos.
+
+                  li 
+                    i.fas.fa-check
+                    p.mb-0 Implementación de bajo costo respecto a #[i above the line].
+
+                  li 
+                    i.fas.fa-check
+                    p.mb-0 Diferenciación del mensaje según #[i target] y contexto del consumidor.
+
+                  li 
+                    i.fas.fa-check
+                    p.mb-0 Se pueden realizar correctivos sobre la marcha.
+
+                  li 
+                    i.fas.fa-check
+                    p.mb-0 De acuerdo con su implementación pueden lograr mayor recordación. 
+
+                  li 
+                    i.fas.fa-check
+                    p.mb-0 Retroalimentación inmediata al posibilitar el contacto directo cara a cara con el consumidor.
+
+              .col-md-5
+                figure
+                  img(src='@/assets/curso/temas/tema1/img66.svg', alt='Texto que describa la imagen')
 
 </template>
 
 <script>
 export default {
   components: {},
-  data: () => ({
-    datosSlyder: [
-      {
-        titulo: 'Emplazamiento del producto:',
-        texto:
-          'Inserción de la marca en la narrativa de una serie, novela, película, etc.',
-        imagen: require('@/assets/curso/temas/tema1/img61.svg'),
-      },
-      {
-        titulo: '<em>Advergaming</em>:',
-        texto: 'Cuando se crean videojuegos para <br>promoción de una marca.',
-        imagen: require('@/assets/curso/temas/tema1/img62.svg'),
-      },
-      {
-        titulo: '<em>Displays:</em>',
-        texto:
-          'Formato publicitario online en el que el <br>anuncio (conocido generalmente como <br><i>banner</i> y formado por texto, imagen, audio e incluso vídeo) se muestra en una página <br>web de destino, por lo general presentado en <br>la parte superior o lateral de la misma.',
-        imagen: require('@/assets/curso/temas/tema1/img63.svg'),
-      },
-      {
-        titulo: '<em>Marketing directo:',
-        texto:
-          'Es una forma de comunicación de <i>marketing</i> que utiliza uno o más medios para <br>comunicarse directamente con un público objetivo y obtener de él una respuesta <br>medible.',
-        imagen: require('@/assets/curso/temas/tema1/img64.svg'),
-      },
-      {
-        titulo: 'Publicidad no casual:',
-        texto:
-          'Es necesario tener en cuenta que no es una nueva forma de publicidad, simplemente cumple con objetivos circunstanciales de mercado. En primer lugar, generar resultados <br>en ventas inmediatas, visto globalmente <br>implica todo tipo de publicidad no usual, <br>que en su esencia concentra los esfuerzos <br>en generar ventas durante los programas.',
-        imagen: require('@/assets/curso/temas/tema1/img65.svg'),
-      },
-      {
-        titulo: 'Ventajas de los medios <br>alternativos:',
-        texto:
-          '<i class="fas fa-check" STYLE="Color: #FC4B52"></i> Legales<br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> Diferenciación del mensaje según target y contexto del consumidor.</i><br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> Se pueden realizar correctivos sobre la marcha.<br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> De acuerdo con su implementación pueden lograr mayor recordación.<br><i class="fas fa-check" STYLE="Color: #FC4B52"></i> Retroalimentación inmediata al posibilitar el contacto directo cara a cara con el <br>consumidor.<br>',
-        imagen: require('@/assets/curso/temas/tema1/img66.svg'),
-      },
-    ],
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()

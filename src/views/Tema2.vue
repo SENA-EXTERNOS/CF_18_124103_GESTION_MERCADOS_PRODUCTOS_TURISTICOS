@@ -15,7 +15,7 @@
 
       .col-lg-3
         figure(data-aos="zoom-in-left")
-          img(src="@/assets/curso/temas/tema2/img1.png", alt="alt")
+          img(src="@/assets/curso/temas/tema2/img1.svg", alt="alt")
 
       p.mt-3 Con el #[i merchandising] aplicado a los eventos se puede influir en la transmisión de un mensaje, por tanto, es importante definir lo que se quiere transmitir, teniendo en cuenta los siguientes factores:
 
