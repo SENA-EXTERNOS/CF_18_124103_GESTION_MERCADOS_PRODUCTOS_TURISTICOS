@@ -61,7 +61,7 @@
         .row
           .col-md-7.mb-4.mb-md-0
             h3 Edecanes
-            p Son las primeras personas que verán los asistentes al evento, por tanto, el primer contacto humano con la marca. Su presencia ayuda a mejorar las ventas en el punto, aumentan la visibilidad del producto, entregan documentación necesaria para el evento, reparten los regalos promocionales, revisan lista de asistentes, acompañan a los invitados, causan un buen impacto a la imagen de la marca y ayudan a los asistentes en todo lo que necesiten. También ayudarán a los participantes a respetar las medidas sanitarias que se impongan o sugieran para los eventos. Su estilo y protocolo dependerá del tipo de evento a cubrir, como feria, congreso, stand comercial, etc.
+            p Son las primeras personas que verán los asistentes al evento, por tanto, el primer contacto humano con la marca. Su presencia ayuda a mejorar las ventas en el punto, aumentan la visibilidad del producto, entregan documentación necesaria para el evento, reparten los regalos promocionales, revisan lista de asistentes, acompañan a los invitados, causan un buen impacto a la imagen de la marca y ayudan a los asistentes en todo lo que necesiten. También ayudarán a los participantes a respetar las medidas sanitarias que se impongan o sugieran para los eventos. Su estilo y protocolo dependerá del tipo de evento a cubrir, como feria, congreso, #[i stand] comercial, etc.
 
           .col-md-5
             figure

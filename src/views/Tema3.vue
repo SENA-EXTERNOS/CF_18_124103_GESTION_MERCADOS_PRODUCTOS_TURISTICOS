@@ -8,7 +8,7 @@
       h1 #[i Layout]
 
     .row
-      p El origen etimológico de #[i layout] proviene de las palabras #[i lay] y #[i out], lay que significa ‘poner’ o ‘disponer’ y #[i out] ‘fuera de’, lo que alude a la solución de un problema. El #[i layout] es una herramienta que busca anticipar problemas de capacidad de espacio, mejorando la distribución de ellos en las locaciones y optimizando el flujo de personas. Se realiza mediante una representación gráfica que considera la disposición espacial, flujo de productos y servicios con espacios adecuados para la circulación y maniobra de equipos y productos. Entre los problemas que ha solucionado el layout están los problemas de espacio.
+      p El origen etimológico de #[i layout] proviene de las palabras #[i lay] y #[i out], lay que significa ‘poner’ o ‘disponer’ y #[i out] ‘fuera de’, lo que alude a la solución de un problema. El #[i layout] es una herramienta que busca anticipar problemas de capacidad de espacio, mejorando la distribución de ellos en las locaciones y optimizando el flujo de personas. Se realiza mediante una representación gráfica que considera la disposición espacial, flujo de productos y servicios con espacios adecuados para la circulación y maniobra de equipos y productos. Entre los problemas que ha solucionado el #[i layout] están los problemas de espacio.
 
     .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-lg-4
@@ -50,7 +50,7 @@
         figure(data-aos="zoom-in-left")
           img(src="@/assets/curso/temas/tema3/img2.svg", alt="alt")
       .col-lg-9
-          p Enfocando un layout para eventos, tenemos que es el diseño de distribución de las diferentes áreas funcionales que se necesitan en la realización de un evento, y sirve para visualizar e implementar la logística a seguir. Dependiendo de la tipología, se observan los siguientes pasos para su implementación:
+          p Enfocando un #[i layout] para eventos, tenemos que es el diseño de distribución de las diferentes áreas funcionales que se necesitan en la realización de un evento, y sirve para visualizar e implementar la logística a seguir. Dependiendo de la tipología, se observan los siguientes pasos para su implementación:
 
 
     .row.justify-content-center.mb-5
@@ -58,7 +58,7 @@
          LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Previo al <em>layout</em> o diseño")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Se debe tener toda la información entregada por el scouting: lugar, número de días del evento, tipo de evento a organizar, número de personas que se esperan y cómo van a llegar las personas, medidas del lugar (ancho, largo, alturas), cantidad y medidas de elementos arquitectónicos (columnas, trabes, accesos, salidas de emergencia, etc.). Un scouting es una visita organizada para conocer a fondo las características del lugar, dónde se realizará el evento y cómo será la logística. Dentro de las características del lugar para realizar el layout tenemos:
+              p.text-small Se debe tener toda la información entregada por el #[i scouting]: lugar, número de días del evento, tipo de evento a organizar, número de personas que se esperan y cómo van a llegar las personas, medidas del lugar (ancho, largo, alturas), cantidad y medidas de elementos arquitectónicos (columnas, trabes, accesos, salidas de emergencia, etc.). Un #[i scouting] es una visita organizada para conocer a fondo las características del lugar, dónde se realizará el evento y cómo será la logística. Dentro de las características del lugar para realizar el #[i layout] tenemos:
 
               ul.lista-ul--color
                 li 

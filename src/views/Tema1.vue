@@ -47,7 +47,7 @@
           .col-5(data-aos="zoom-in-left")
             img(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop')
         h3.text-center Acciones comerciales
-        p.text-center.text-small Las acciones comerciales online tienen como objetivo convertir al navegante en cliente. En los puntos de venta físicos, los consumidores cuentan con el producto tangible que pueden ver y tocar. En la industria turística la venta es de un intangible, es decir, servicios que se materializan solo cuando el cliente los utiliza. 
+        p.text-center.text-small Las acciones comerciales #[i online] tienen como objetivo convertir al navegante en cliente. En los puntos de venta físicos, los consumidores cuentan con el producto tangible que pueden ver y tocar. En la industria turística la venta es de un intangible, es decir, servicios que se materializan solo cuando el cliente los utiliza. 
 
       .tarjeta.p-4.banner1-tema-1.mt-5
         .row.justify-content-center.mb-5
@@ -108,10 +108,10 @@
           .col-md-1.mb-4.mb-md-0
 
           .col-md-9
-            h4 Sistema logístico
+            h4 Precios
             p Influye en los precios (mayor sensibilidad al precio, presión de la oferta y la demanda, aumento de la competencia).
 
-      .py-4.py-md-5(titulo="SPautas de comunicación" :icono="require('@/assets/curso/temas/tema1/img11.svg')")
+      .py-4.py-md-5(titulo="Pautas de comunicación" :icono="require('@/assets/curso/temas/tema1/img11.svg')")
         .row.justify-content-center.align-items-center.mb-5
           .col-md-2.mb-4.mb-md-0
             figure(data-aos="zoom-in-left")
@@ -120,7 +120,7 @@
           .col-md-1.mb-4.mb-md-0
 
           .col-md-9
-            h4 Sistema logístico
+            h4 Pautas de comunicación
             p Modifica las pautas de la comunicación y la forma de relacionarnos.
 
     .row.mt-3
@@ -157,7 +157,7 @@
 
                 p En ambos casos, esto se consigue por dos características distintivas del entorno digital, como son: la interconectividad (todo está interrelacionado) y la interactividad (es posible mantener una comunicación real en doble vía). 
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Interconectividad e interactividad")
+          .tarjeta.clr-paleYellow.p-4(titulo="Posicionamiento")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
@@ -232,7 +232,7 @@
 
           .col-md-6.mb-4.mb-md-0
             h3 Alianza con una marca digital: 
-            p Las alianzas entre marcas, conocidas también como co-branding, son acuerdos entre marcas complementarias que se comprometen en la realización de actividades de marketing de forma conjunta. Con estas estrategias se logra aumentar la notoriedad de las marcas que participan en el acuerdo, y se refuerza su imagen. De este modo, marcas poco conocidas en la red pueden optar por su alianza con nombres de fuerte presencia en el medio (como Google, Yahoo!, etc.) para facilitar su introducción.
+            p Las alianzas entre marcas, conocidas también como #[i co-branding], son acuerdos entre marcas complementarias que se comprometen en la realización de actividades de #[i marketing] de forma conjunta. Con estas estrategias se logra aumentar la notoriedad de las marcas que participan en el acuerdo, y se refuerza su imagen. De este modo, marcas poco conocidas en la red pueden optar por su alianza con nombres de fuerte presencia en el medio (como Google, Yahoo!, etc.) para facilitar su introducción.
 
           .col-md-4
             figure(data-aos="zoom-in-left")
@@ -275,7 +275,7 @@
           i.fas.fa-square
           p.mb-0 #[b El precio]
 
-      p El precio es el principal factor que el consumidor valora en la decisión final de compra de un producto. También es relevante mencionar que, en los últimos tiempos, se ha superado la inseguridad y el miedo alrededor de los pagos online. Estas condiciones confieren al precio una dimensión psicológica prevalente que la estrategia de precios debe siempre tener muy en cuenta, más aún cuando se trata de un ámbito donde no existe una relación cara a cara con el comprador.
+      p El precio es el principal factor que el consumidor valora en la decisión final de compra de un producto. También es relevante mencionar que, en los últimos tiempos, se ha superado la inseguridad y el miedo alrededor de los pagos #[i online]. Estas condiciones confieren al precio una dimensión psicológica prevalente que la estrategia de precios debe siempre tener muy en cuenta, más aún cuando se trata de un ámbito donde no existe una relación cara a cara con el comprador.
 
 
     .row.justify-content-center.align-items-center.mb-5.mt-5           
@@ -310,7 +310,7 @@
             p.text-center #[b Ahorrar tiempo.]
 
           .tarjeta.color-acento-botones.p-3(x="78.3%" y="77%" numero="3")
-            p.text-center #[b Acceder a Comparar precios.]
+            p.text-center #[b Comparar precios.]
 
           .tarjeta.color-acento-botones.p-3(x="21.3%" y="77%" numero="4")
             p.text-center #[b Comprar novedades.]
@@ -373,7 +373,7 @@
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta clr--gris")
           .row(titulo="Billeteras electrónicas")
             .col-12
-              p Son aplicativos de pago bancarizados y no bancarizados (#[i Fintech]) que ofrecen a los clientes transacciones por montos bajos, además de realizar pagos; la premisa general es reemplazar el efectivo, y al parecer se está logrando, ya que cada vez son más los usuarios de estas apps. Entre las más Conocidas están: Tpaga, Nequi (Bancolombia), Movii, Powwi, Davipay (Davivienda), Rappi Pay, Tuya, Billetera Colpatria, BBVA Wallet y Billetera Móvil Bancolombia.
+              p Son aplicativos de pago bancarizados y no bancarizados (#[i Fintech]) que ofrecen a los clientes transacciones por montos bajos, además de realizar pagos; la premisa general es reemplazar el efectivo, y al parecer se está logrando, ya que cada vez son más los usuarios de estas #[i apps]. Entre las más Conocidas están: Tpaga, Nequi (Bancolombia), Movii, Powwi, Davipay (Davivienda), Rappi Pay, Tuya, Billetera Colpatria, BBVA Wallet y Billetera Móvil Bancolombia.
 
           .row(titulo="Botones de pago")
             .col-12
@@ -546,7 +546,7 @@
 
               .col-lg-10
                 h3 El método de negociación Harvard
-                p Los autores norteamericanos Roger Fisher y William Ury, desarrollaron el método llamado Getting to yes, o método Harvard. Este se basa en la premisa de que un buen acuerdo no debe resultar de establecer una posición dominante, sino que debe ser fruto del fortalecimiento del vínculo entre las partes.
+                p Los autores norteamericanos Roger Fisher y William Ury, desarrollaron el método llamado #[i Getting to yes], o método Harvard. Este se basa en la premisa de que un buen acuerdo no debe resultar de establecer una posición dominante, sino que debe ser fruto del fortalecimiento del vínculo entre las partes.
 
           .tarjeta.clr-paleYellow2.p-4(titulo="El método SPIN")
             .row.justify-content-center.align-items-center
@@ -586,7 +586,7 @@
 
               .col-lg-10
                 h3 Atención al cliente
-                p La atención al cliente es un ítem preponderante en la venta tradicional, y más aún en la venta digital. Al vender se ofrecen soluciones, por tanto, todo el soporte preventa y posventa será altamente apreciado. No basta con solo crear un buen contenido y ponerlo en la web, o promoverlo en redes sociales, si al final del día el prospecto o el cliente no pueden lograr el trato que desean.
+                p La atención al cliente es un ítem preponderante en la venta tradicional, y más aún en la venta digital. Al vender se ofrecen soluciones, por tanto, todo el soporte preventa y posventa será altamente apreciado. No basta con solo crear un buen contenido y ponerlo en la #[i web], o promoverlo en redes sociales, si al final del día el prospecto o el cliente no pueden lograr el trato que desean.
 
           .tarjeta.clr-paleYellow2.p-4(titulo="Venta digital")
             .row.justify-content-center.align-items-center
@@ -762,7 +762,7 @@
       .col-lg-5
         p #[i Bellow the line] significa ‘bajo la línea’, y consiste en la estrategia de publicidad que hace uso de formas no masivas de comunicación para el mercadeo, las cuales están dirigidas a segmentos de mercado específicos.
 
-      p.mt-3  A continuación, se presenta una breve descripción de las etapas que ha tomado el bellow the line desde que surgió el término hasta llegar a las grandes marcas en el tiempo:
+      p.mt-3  A continuación, se presenta una breve descripción de las etapas que ha tomado el #[i bellow the line] desde que surgió el término hasta llegar a las grandes marcas en el tiempo:
 
 
     LineaTiempoE.color-acento-botones
@@ -794,7 +794,7 @@
           i.fas.fa-square
           p.mb-0 #[b Medios alternativos]
 
-      p Los medios alternativos pueden tipificarse como medios bellow the line. Estos pueden verse como complemento de los medios tradicionales, y pueden definirse como acciones tácticas que hacen parte de las estrategias y nos ayudan a conseguir objetivos de ventas, de participación en el mercado o de posicionamiento, tales como: 
+      p Los medios alternativos pueden tipificarse como medios #[i bellow the line]. Estos pueden verse como complemento de los medios tradicionales, y pueden definirse como acciones tácticas que hacen parte de las estrategias y nos ayudan a conseguir objetivos de ventas, de participación en el mercado o de posicionamiento, tales como: 
 
 
     .row.justify-content-center.align-items-center
@@ -823,7 +823,7 @@
             .row
               .col-md-7.mb-4.mb-md-0
                 h3 #[i Displays:]
-                p Formato publicitario online en el que el anuncio (conocido generalmente como #[i banner] y formado por texto, imagen, audio e incluso vídeo) se muestra en una página web de destino, por lo general presentado en la parte superior o lateral de la misma.
+                p Formato publicitario #[i online] en el que el anuncio (conocido generalmente como #[i banner] y formado por texto, imagen, audio e incluso vídeo) se muestra en una página #[i web] de destino, por lo general presentado en la parte superior o lateral de la misma.
               .col-md-5
                 figure
                   img(src='@/assets/curso/temas/tema1/img63.svg', alt='Texto que describa la imagen')
