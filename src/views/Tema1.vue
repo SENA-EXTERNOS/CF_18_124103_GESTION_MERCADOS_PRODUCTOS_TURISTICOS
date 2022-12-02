@@ -626,6 +626,12 @@
 
       p.mt-3 Los medios de comunicación tradicionales, como radio, televisión, periódicos, revistas, cines, vallas publicitarias, mobiliario urbano, y por supuesto, la Internet, son los canales propicios para desarrollar la comercialización de eventos bajo esta técnica, llegando de manera específica a un público objetivo cuando este es demasiado amplio.
 
+    .row.mt-3
+      ul.lista-ul--color
+        li 
+          i.fas.fa-square
+          p.mb-0 #[b  Medios tradicionales de comunicación]
+
     .row.justify-content-center.mb-5.mt-5
       .col-lg-10.position-relative
         .avatar.justify-content-center.mb-5.mt-5
