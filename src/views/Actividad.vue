@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Arrastrar y soltar
+          h2 Técnicas comerciales
         p.mb-4 La actividad planteada consiste en organizar dos columnas: en una se deben poner los términos y en la otra las definiciones, el objetivo es que el aprendiz haga la unión entre término y definición, de esta manera, podrá hacer un repaso general del desarrollo de este componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

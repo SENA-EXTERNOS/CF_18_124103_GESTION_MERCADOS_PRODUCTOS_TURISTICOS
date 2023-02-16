@@ -51,7 +51,7 @@
 
         .row
           .col-md-7.mb-4.mb-md-0
-            h3 #[i Souvenirs]
+            h3 #[i Suvenires]
             p Es importante que los productos a regalar sean útiles para que las personas los utilicen diariamente y se hagan conscientes de la marca; estos deben tener los datos de contacto de la empresa de manera visible. 
 
           .col-md-5
@@ -70,7 +70,7 @@
 
         .row
           .col-md-7.mb-4.mb-md-0
-            h3 Beneficios de incluir merchandising en eventos
+            h3 Beneficios de incluir <i>merchandising</i> en eventos
        
             ul.lista-ul--color
               li 
@@ -79,7 +79,7 @@
 
               li 
                 i.fas.fa-check
-                p.mb-0 #[b Visibilidad:] el merchandising va a llevar el logotipo de la empresa, ganando visibilidad, ya que si obsequió camisetas los usuarios que se la pongan van a ir haciendo publicidad de la marca indirectamente. 
+                p.mb-0 #[b Visibilidad:] el #[i merchandising] va a llevar el logotipo de la empresa, ganando visibilidad, ya que si obsequió camisetas los usuarios que se la pongan van a ir haciendo publicidad de la marca indirectamente. 
 
               li 
                 i.fas.fa-check

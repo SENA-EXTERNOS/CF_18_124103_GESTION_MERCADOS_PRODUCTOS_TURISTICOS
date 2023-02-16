@@ -71,7 +71,7 @@
 
       p La mezcla de mercado tradicional con las cuatro (4) P’s (producto, precio, promoción y plaza) sigue siendo la columna vertebral del mercadeo. A continuación, se describen aspectos para tener en cuenta en procesos de comercialización #[i online]. 
 
-      p Con la aparición de Internet y las nuevas tecnologías, se cambia hacia una perspectiva digital. Internet es un nuevo canal de información, de comercialización y de venta, de selección de productos de pago, y por tanto:
+      p Con la aparición del Internet y las nuevas tecnologías, se cambia hacia una perspectiva digital. El Internet es un nuevo canal de información, de comercialización, de venta y de selección de productos de pago.
 
 
     TabsB.color-acento-contenido.mt-3
@@ -146,7 +146,7 @@
                 p Para la primera variable en el ámbito digital, se debe concretar la definición de un producto de eventos reconocible por su marca y calidad, teniendo en cuenta la posibilidad de detectar necesidades que no se han suplido adecuadamente, y que ahora se encuentra en condiciones de satisfacer, denotando que es un mercado global, con muchos usuarios y con una gran variedad de comportamientos y gustos, y a los que se sirve con una oferta personalizada.
          
           
-          .tarjeta.clr-paleYellow.p-4(titulo="Interconectividad e interactividad")
+          .tarjeta.clr-paleYellow.p-4(titulo="Interconectividad e <br>interactividad")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
@@ -232,7 +232,7 @@
 
           .col-md-6.mb-4.mb-md-0
             h3 Alianza con una marca digital: 
-            p Las alianzas entre marcas, conocidas también como #[i co-branding], son acuerdos entre marcas complementarias que se comprometen en la realización de actividades de #[i marketing] de forma conjunta. Con estas estrategias se logra aumentar la notoriedad de las marcas que participan en el acuerdo, y se refuerza su imagen. De este modo, marcas poco conocidas en la red pueden optar por su alianza con nombres de fuerte presencia en el medio (como Google, Yahoo!, etc.) para facilitar su introducción.
+            p Las alianzas entre marcas, conocidas también como #[i co-branding], son acuerdos entre marcas complementarias que se comprometen en la realización de actividades de #[i marketing] de forma conjunta. Con estas estrategias se logra aumentar la notoriedad de las marcas que participan en el acuerdo, y se refuerza su imagen. De este modo, marcas poco conocidas en la red pueden optar por su alianza con nombres de fuerte presencia en el medio (como Google, Yahoo!, entre otros.) para facilitar su introducción.
 
           .col-md-4
             figure(data-aos="zoom-in-left")
@@ -538,7 +538,7 @@
                 h3 El método AIDA
                 p Este método obedece al acróstico Atención, Interés, Deseo y Acción. Fue creado en 1899 por Elmo Lewis, y se le considera como una técnica muy útil para atraer y mantener el foco de atención de los clientes hasta la conversión final en venta.
 
-          .tarjeta.clr-paleYellow2.p-4(titulo="El método de negociación Harvard")
+          .tarjeta.clr-paleYellow2.p-4(titulo="El método de negociación<br> Harvard")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
@@ -568,7 +568,7 @@
                 h3 La empatía estratégica
                 p Este método está basado en las experiencias de Chris Voss, quien fue negociador del FBI durante 24 años. Él encontró, a lo largo de múltiples negociaciones, que el aspecto emocional de las negociaciones es vital, y sugiere una técnica que consiste en practicar la escucha activa, continuar las interlocuciones repitiendo las últimas tres palabras del interlocutor.
 
-          .tarjeta.clr-paleYellow2.p-4(titulo="La técnica de negociación ganar-ganar")
+          .tarjeta.clr-paleYellow2.p-4(titulo="La técnica de negociación<br> ganar-ganar")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
