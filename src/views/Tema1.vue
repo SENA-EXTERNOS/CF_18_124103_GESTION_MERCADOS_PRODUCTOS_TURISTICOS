@@ -69,7 +69,7 @@
           i.fas.fa-square
           p.mb-0 #[b Comercialización #[i Online]]
 
-      p La mezcla de mercado tradicional con las cuatro (4) P’s (producto, precio, promoción y plaza) sigue siendo la columna vertebral del mercadeo. A continuación, se describen aspectos para tener en cuenta en procesos de comercialización #[i online]. 
+      p La mezcla de mercado tradicional con las cuatro (4) P’s (producto, precio, promoción y plaza) sigue siendo la columna vertebral del mercadeo. A continuación, se describen aspectos para tener en cuenta en procesos de comercialización #[i online]:
 
       p Con la aparición del Internet y las nuevas tecnologías, se cambia hacia una perspectiva digital. El Internet es un nuevo canal de información, de comercialización, de venta y de selección de productos de pago.
 
@@ -212,7 +212,7 @@
           .bloque-texto-g__texto.p-4
             p Constantemente, al interior de las empresas que trabajan en el sector eventos surgen oportunidades de cambio en su portafolio de servicios y productos; estos cambios se plasman en la creación de productos y servicios digitales para ser distribuidos a través de la #[i web]. 
 
-            p En el medio turístico, un ejemplo bien conocido son los mapas creados por Google, que en sí son la versión digital de un producto genérico, pero que a su vez sirven como base para el desarrollo de guías de eventos interactivos, como #[i Lonely Planet], que se pueden consumir mediante una #[i app]. 
+            p En el medio turístico, un ejemplo bien conocido son los mapas creados por Google, que en sí son la versión digital de un producto genérico, pero que a su vez sirven como base para el desarrollo de guías de eventos interactivos, como Lonely Planet, que se pueden consumir mediante una #[i app]. 
 
 
     .row.mt-3
@@ -231,7 +231,7 @@
         .row.justify-content-center.align-items-center.mb-5(titulo="")
 
           .col-md-6.mb-4.mb-md-0
-            h3 Alianza con una marca digital: 
+            h3 Alianza con una marca digital
             p Las alianzas entre marcas, conocidas también como #[i co-branding], son acuerdos entre marcas complementarias que se comprometen en la realización de actividades de #[i marketing] de forma conjunta. Con estas estrategias se logra aumentar la notoriedad de las marcas que participan en el acuerdo, y se refuerza su imagen. De este modo, marcas poco conocidas en la red pueden optar por su alianza con nombres de fuerte presencia en el medio (como Google, Yahoo!, entre otros.) para facilitar su introducción.
 
           .col-md-4
@@ -242,7 +242,7 @@
         .row.justify-content-center.align-items-center.mb-5(titulo="")
 
           .col-md-6.mb-4.mb-md-0
-            h3 Creación de una nueva marca: 
+            h3 Creación de una nueva marca
             p Esta opción se hace necesaria cuando la marca de la empresa tiene connotaciones inapropiadas para Internet, o cuando se desea llegar a segmentos distintos de aquellos a los que se orienta en los entornos físicos.
 
           .col-md-4
@@ -252,7 +252,7 @@
         .row.justify-content-center.align-items-center.mb-5(titulo="")
 
           .col-md-6.mb-4.mb-md-0
-            h3 Marca tradicional:
+            h3 Marca tradicional
             p Las empresas con marcas establecidas en los entornos convencionales pueden utilizarlas también en línea ahora.
 
           .col-md-4
@@ -262,7 +262,7 @@
         .row.justify-content-center.align-items-center.mb-5(titulo="")
 
           .col-md-6.mb-4.mb-md-0
-            h3 Marcas de confianza:
+            h3 Marcas de confianza
             p En Internet la confianza en la marca es muy importante; en la relación comercial a distancia la comunicación es prevalente y los consumidores refieren sitios en los que confían, con marcas que les son familiares, en oportunidades sin consideración del precio. 
 
           .col-md-4
@@ -417,7 +417,7 @@
                     i.fas.fa-file-download
 
     .row
-      p La industria turística, en general, basa su oferta comercial en servicios intangibles, por lo cual se apoya de elementos gráficos que apoyen la transmisión del mensaje a los posibles clientes, uno de los más usados es el portafolio.
+      p La industria turística, en general, basa su oferta comercial en servicios intangibles, por lo cual se apoya de elementos gráficos que apoyen la transmisión del mensaje a los posibles clientes, uno de los más usados es el portafolio:
 
 
     .tarjeta.tarjeta--azul.p-4.banner3-tema-1
@@ -509,7 +509,7 @@
           i.fas.fa-square
           p.mb-0 #[b  Técnicas de negociación ]
 
-      p Es importante tener en cuenta que las técnicas de negociación incluyen estrategias cara a cara, el método AIDA, el método de negociación Harvard, el método SPIN, la empatía estratégica, la técnica de negociación ganar-ganar y la atención al cliente, tal como se muestra a continuación.
+      p Es importante tener en cuenta que las técnicas de negociación incluyen estrategias cara a cara, el método AIDA, el método de negociación Harvard, el método SPIN, la empatía estratégica, la técnica de negociación ganar-ganar y la atención al cliente, tal como se muestra a continuación:
 
       p El portafolio de servicios es un documento preparado por una empresa, organización o individuo en el que se describen sintéticamente los servicios que ofrece, y detalla los límites y ofrecimientos del proveedor para todos los clientes y áreas de mercado a los que sirve.
 
@@ -713,44 +713,50 @@
           .tarjeta.color-acento-botones.p-3(x="69.9%" y="58%" numero="")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p #[b Videopantallas:]
+                p #[b Transporte público:]
 
-                p Soportes multimedia situados en lugares transitados, como centros comerciales o eventos.
+                p Publicidad situada en la superficie exterior de autobuses, trenes, tranvías o taxis.              
+
 
           .tarjeta.color-acento-botones.p-3(x="58.0%" y="68.7%" numero="")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p #[b Muros:]
+                p #[b Videopantallas:]
 
-                p Publicidad impresa sobre muros o fachadas de edificios. Por sus características, suelen tener un carácter permanente.
+                p Soportes multimedia situados en lugares transitados, como centros comerciales o eventos.              
+
 
           .tarjeta.color-acento-botones.p-3(x="42.8%" y="68.5%" numero="")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p #[b Publicidad que se realiza #[i online]:]
+                p #[b Banderolas:]
 
-                p Al comparar esta publicidad resulta más económica que las prácticas con la publicidad tradicional, facilitando además la medición de resultados de la campaña.
+                p Anuncios de carácter repetitivo adosados generalmente a postes de iluminación.              
+
 
           .tarjeta.color-acento-botones.p-3(x="30.5%" y="58%" numero="")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p #[b Transporte público:]
+                p #[b Muros:]
 
-                p Publicidad situada en la superficie exterior de autobuses, trenes, tranvías o taxis.
+                p Publicidad impresa sobre muros o fachadas de edificios. Por sus características, suelen tener un carácter permanente.              
+
 
           .tarjeta.color-acento-botones.p-3(x="24.5%" y="40%" numero="")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p #[b Banderolas:]
+                p #[b Internet:]
 
-                p Anuncios de carácter repetitivo adosados generalmente a postes de iluminación. 
+                p La publicidad utiliza la red como medio de comunicación, ya sea una web o #[i blog], el correo electrónico, las redes sociales o cualquier otra plataforma o sistema virtual, permitiendo dar a conocer la marca, empresa o producto a prácticamente todo el mundo, sin importar la hora o día en el año.
+
+
 
           .tarjeta.color-acento-botones.p-3(x="27.8%" y="19.5%" numero="")
             .row.justify-content-center.align-items-center
               .col-lg-12
-                p #[b Internet:]
+                p #[b Publicidad que se realiza #[i online]:]
 
-                p La publicidad utiliza la red como medio de comunicación, ya sea una #[i web] o #[i blog], el correo electrónico, las redes sociales o cualquier otra plataforma o sistema virtual, permitiendo dar a conocer la marca, empresa o producto a prácticamente todo el mundo, sin importar la hora o día en el año.
+                p Al comparar esta publicidad resulta más económica que las prácticas con la publicidad tradicional, facilitando además la medición de resultados de la campaña.              
 
 
     separador
@@ -809,7 +815,7 @@
           SlyderA(tipo="b")
             .row
               .col-md-7.mb-4.mb-md-0
-                h3 Emplazamiento del producto:
+                h3 Emplazamiento del producto
                 p Inserción de la marca en la narrativa de una serie, novela, película, etc.
 
               .col-md-5
@@ -819,7 +825,7 @@
 
             .row
               .col-md-7.mb-4.mb-md-0
-                h3 #[i Advergaming:]
+                h3 #[i Advergaming]
                 p Cuando se crean videojuegos para promoción de una marca.
 
               .col-md-5
@@ -828,7 +834,7 @@
 
             .row
               .col-md-7.mb-4.mb-md-0
-                h3 #[i Displays:]
+                h3 #[i Displays]
                 p Formato publicitario #[i online] en el que el anuncio (conocido generalmente como #[i banner] y formado por texto, imagen, audio e incluso vídeo) se muestra en una página #[i web] de destino, por lo general presentado en la parte superior o lateral de la misma.
               .col-md-5
                 figure
@@ -836,7 +842,7 @@
 
             .row
               .col-md-7.mb-4.mb-md-0
-                h3 #[i Marketing] directo:
+                h3 #[i Marketing] directo
                 p Es una forma de comunicación de #[i marketing] que utiliza uno o más medios para comunicarse directamente con un público objetivo y obtener de él una respuesta medible.
 
               .col-md-5
@@ -845,7 +851,7 @@
 
             .row
               .col-md-7.mb-4.mb-md-0
-                h3 Publicidad no casual:
+                h3 Publicidad no casual
                 p Es necesario tener en cuenta que no es una nueva forma de publicidad, simplemente cumple con objetivos circunstanciales de mercado. En primer lugar, generar resultados en ventas inmediatas, visto globalmente implica todo tipo de publicidad no usual, que en su esencia concentra los esfuerzos en generar ventas durante los programas.
 
               .col-md-5
@@ -855,7 +861,7 @@
 
             .row
               .col-md-7.mb-4.mb-md-0
-                h3 Ventajas de los medios alternativos:
+                h3 Ventajas de los medios alternativos
        
                 ul.lista-ul--color
                   li 
