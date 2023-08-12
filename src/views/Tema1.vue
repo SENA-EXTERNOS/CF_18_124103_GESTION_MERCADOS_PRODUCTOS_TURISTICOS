@@ -515,97 +515,88 @@
 
     .row.mt-5
       .col-lg-12.order-2.order-lg-1
-        TabsA.color-acento-contenido.mb-5        
-          .tarjeta.clr-paleYellow2.p-4(titulo="Estrategia cara a cara")
+        TabsC.color-acento-contenido.mb-5        
+          .tarjeta.clr-paleYellow2.p-4.mb-3(titulo="Estrategia cara a cara")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
                   img(src="@/assets/curso/temas/tema1/img33.svg", alt="alt")
 
               .col-lg-10
-                h3 Estrategia cara a cara
 
                 p Es posiblemente el método más antiguo que existe, y se basa en establecer una relación entre el comprador y el cliente. Para desarrollar esta técnica se aconseja tener una escucha activa, teniendo en cuenta los detalles entregados por el cliente. Adicionalmente, manejar un lenguaje corporal proactivo que exprese al cliente seguridad, confianza y una actitud genuina de ayudarlo.
 
           
-          .tarjeta.clr-paleYellow2.p-4(titulo="El método AIDA")
+          .tarjeta.clr-paleYellow2.p-4.mb-3(titulo="El método AIDA")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
                   img(src="@/assets/curso/temas/tema1/img34.svg", alt="alt")
 
               .col-lg-10
-                h3 El método AIDA
                 p Este método obedece al acróstico Atención, Interés, Deseo y Acción. Fue creado en 1899 por Elmo Lewis, y se le considera como una técnica muy útil para atraer y mantener el foco de atención de los clientes hasta la conversión final en venta.
 
-          .tarjeta.clr-paleYellow2.p-4(titulo="El método de negociación<br> Harvard")
+          .tarjeta.clr-paleYellow2.p-4.mb-3(titulo="El método de negociación<br> Harvard")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
                   img(src="@/assets/curso/temas/tema1/img35.svg", alt="alt")
 
               .col-lg-10
-                h3 El método de negociación Harvard
                 p Los autores norteamericanos Roger Fisher y William Ury, desarrollaron el método llamado #[i Getting to yes], o método Harvard. Este se basa en la premisa de que un buen acuerdo no debe resultar de establecer una posición dominante, sino que debe ser fruto del fortalecimiento del vínculo entre las partes.
 
-          .tarjeta.clr-paleYellow2.p-4(titulo="El método SPIN")
+          .tarjeta.clr-paleYellow2.p-4.mb-3(titulo="El método SPIN")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
                   img(src="@/assets/curso/temas/tema1/img36.svg", alt="alt")
 
               .col-lg-10
-                h3 El método SPIN
                 p Es también un acróstico, cuya base es el recorrido por cuatro (4) etapas que dan origen a su nombre: Situación, Problema, Implicación y Necesidad. Estas etapas se basan en la premisa de que el cliente es la parte que más tiene qué decir. Para su desarrollo los vendedores hacen unas preguntas, las cuales los llevan a analizar la situación, resaltar temas comunes, detectar problemas y buscar una solución.
 
-          .tarjeta.clr-paleYellow2.p-4(titulo="La empatía estratégica")
+          .tarjeta.clr-paleYellow2.p-4.mb-3(titulo="La empatía estratégica")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
                   img(src="@/assets/curso/temas/tema1/img37.svg", alt="alt")
 
               .col-lg-10
-                h3 La empatía estratégica
                 p Este método está basado en las experiencias de Chris Voss, quien fue negociador del FBI durante 24 años. Él encontró, a lo largo de múltiples negociaciones, que el aspecto emocional de las negociaciones es vital, y sugiere una técnica que consiste en practicar la escucha activa, continuar las interlocuciones repitiendo las últimas tres palabras del interlocutor.
 
-          .tarjeta.clr-paleYellow2.p-4(titulo="La técnica de negociación<br> ganar-ganar")
+          .tarjeta.clr-paleYellow2.p-4.mb-3(titulo="La técnica de negociación ganar-ganar")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
                   img(src="@/assets/curso/temas/tema1/img38.svg", alt="alt")
 
               .col-lg-10
-                h3 La técnica de negociación ganar-ganar
                 p Esta técnica invita a conocer el contexto de la contraparte y propone ir alimentando la reciprocidad y fomentando la colaboración, hasta llegar al punto óptimo de negociación.
 
-          .tarjeta.clr-paleYellow2.p-4(titulo="Atención al cliente")
+          .tarjeta.clr-paleYellow2.p-4.mb-3(titulo="Atención al cliente")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
                   img(src="@/assets/curso/temas/tema1/img39.svg", alt="alt")
 
               .col-lg-10
-                h3 Atención al cliente
                 p La atención al cliente es un ítem preponderante en la venta tradicional, y más aún en la venta digital. Al vender se ofrecen soluciones, por tanto, todo el soporte preventa y posventa será altamente apreciado. No basta con solo crear un buen contenido y ponerlo en la #[i web], o promoverlo en redes sociales, si al final del día el prospecto o el cliente no pueden lograr el trato que desean.
 
-          .tarjeta.clr-paleYellow2.p-4(titulo="Venta digital")
+          .tarjeta.clr-paleYellow2.p-4.mb-3(titulo="Venta digital")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
                   img(src="@/assets/curso/temas/tema1/img40.svg", alt="alt")
 
               .col-lg-10
-                h3 Venta digital
                 p Dentro de la venta digital hay múltiples herramientas que funcionan como medios para generar ventas, pero también como medios de interacción y comunicación; por este motivo, hay que utilizarlos responsablemente, pero sobre todo enfocados a brindar un servicio genuino.
 
-          .tarjeta.clr-paleYellow2.p-4(titulo="Servicios de chat")
+          .tarjeta.clr-paleYellow2.p-4.mb-3(titulo="Servicios de chat")
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure(data-aos="zoom-in-left")
                   img(src="@/assets/curso/temas/tema1/img41.svg", alt="alt")
 
               .col-lg-10
-                h3 Servicios de chat
                 p Entre estas herramientas están los servicios de chat, los #[i bots] de servicio, los formularios de contacto, los enlaces telefónicos, los foros o grupos de ayuda, las redes sociales. Todos ellos, individualmente o en conjunto, cumplen la misma función: establecer una comunicación con el cliente; la gran mayoría de las veces un cliente solo desea ser escuchado.
 
 
