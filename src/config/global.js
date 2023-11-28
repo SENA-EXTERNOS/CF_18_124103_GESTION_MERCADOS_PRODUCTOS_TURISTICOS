@@ -127,14 +127,6 @@ export default {
         'https://idus.us.es/bitstream/handle/11441/48294/CorderoLopez_Lucia_TFG_2016.pdf;jsessionid=ABFB63C6E2C28861D02F3DD09AF9E830?sequence=1',
     },
     {
-      tema: '<em>Merchandising</em>',
-      referencia:
-        'Ruiz Fernández, C. (2019). <em>Marketing experiencial y su aplicación en la organización de eventos</em>. Ediciones Parainfo.',
-      tipo: 'Libro',
-      link:
-        'https://books.google.com.co/books?id=sZAaEAAAQBAJ&printsec=frontcover&dq=organizaci%C3%B3n+de+eventos&hl=es&sa=X&redir_esc=y#v=onepage&q=organizaci%C3%B3n%20de%20eventos&f=false',
-    },
-    {
       tema: '<em>Marketing</em> de eventos',
       referencia:
         'InboundCycle. (2018) <em>Marketing de eventos: cómo conseguir un mayor alcance</em>. [Video]. YouTube. ',
